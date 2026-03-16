@@ -1,0 +1,22 @@
+
+{
+  "project": "E-commerce API",
+  "tests": [
+    {
+      "id": "TC_01",
+      "method": "GET",
+      "endpoint": "/products",
+      "expected_status": 200
+    },
+    {
+      "id": "TC_02",
+      "method": "POST",
+      "endpoint": "/login",
+      "body": {
+        "user": "lale_qa",
+        "pass": "secure123"
+      },
+      "expected_status": 200
+    }
+  ]
+}
