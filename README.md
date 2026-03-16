@@ -39,4 +39,5 @@ This repository contains a comprehensive Quality Assurance (QA) project for an E
   2. Run: `python automation/ecommerce_automation.py`
 
 ---
-**Contact:** [Lala Gaziyeva](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+**Contact:** [Lala Gaziyeva]
+https://www.linkedin.com/in/lala-qaziyeva
